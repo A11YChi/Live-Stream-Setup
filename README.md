@@ -14,3 +14,5 @@ The live stream is used to present the meetup to those individuals who cannot at
 
 ![Screenshot of the YouTube UI](https://github.com/A11YChi/Live-Stream-Setup/blob/master/YouTube-LiveEvent-Create.png "Screenshot of the YouTube UI")
 
+## Setting Up the Live Stream Camera (At the Event)
+Typically, a laptop cam is used to stream the event. The laptop must be connected to a strong, dependable wi-fi network to stream a quality event. The laptop should be positioned so that the speaker and screen are included. Make sure to consider that there are barrier-free sightlines (i.e. no one sitting in front of the laptop).
