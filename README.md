@@ -19,7 +19,11 @@ On the day of the event,
 1. Log into YouTube and navigate to Live Stream Events. 
 2. Close to the start of the event, select the "Start Hangout on Air" button.
 3. Ensure the position of the laptop camera is appropriate.
-4. Minutes before the start of the live stream event (ex. just before housekeeping announcements), 
+4. Minutes before the start of the live stream event (ex. just after housekeeping announcements), select the "Start Broadcast" button to begin the stream.
+
+![Hangout screen](https://github.com/A11YChi/Live-Stream-Setup/blob/master/YouTube-LiveEvent-Hangout.png "Hangout screen")
+
+Once the presentation is over, select the "Stop Broadcast" button. Make sure to end the stream by then hanging up on the "call."
 
 ## Setting Up the Live Stream Camera (At the Event)
 Typically, a laptop cam is used to stream the event. The laptop must be connected to a strong, dependable wi-fi network to stream a quality event. The laptop should be positioned so that the speaker and screen are included. Make sure to consider that there are barrier-free sightlines (i.e. no one sitting in front of the laptop).
