@@ -16,3 +16,10 @@ The live stream is used to present the meetup to those individuals who cannot at
 
 ## Setting Up the Live Stream Camera (At the Event)
 Typically, a laptop cam is used to stream the event. The laptop must be connected to a strong, dependable wi-fi network to stream a quality event. The laptop should be positioned so that the speaker and screen are included. Make sure to consider that there are barrier-free sightlines (i.e. no one sitting in front of the laptop).
+
+## Setting Up the Microphone for the Live Stream
+A lapel microphone is used to mic the speaker, having their voice come across the live stream clearly, ensuring the remote live captioner can hear the spoken word properly. The lapel microphone typically has an extension cable to ensure lenth and reach to the speaker.
+
+Connect the microphone to the laptop and extend the lapel microphone out to ensure there's enough reach. YOu may want to ensure the cable is not tripped on my attendees, by taping it down in trafficked areas. YOu will want to do a sound check to ensure there are proper sound levels.
+
+**Note:** you should monitor the live stream, noting the quality of sound, to ensure there are no issues.
