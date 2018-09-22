@@ -23,6 +23,8 @@ On the day of the event,
 
 ![Hangout screen](https://github.com/A11YChi/Live-Stream-Setup/blob/master/YouTube-LiveEvent-Hangout.png "Hangout screen")
 
+**Note:** this is a good time to check the sound levels from the microphone.
+
 Once the presentation is over, select the "Stop Broadcast" button. Make sure to end the stream by then hanging up on the "call."
 
 ## Setting Up the Live Stream Camera (At the Event)
