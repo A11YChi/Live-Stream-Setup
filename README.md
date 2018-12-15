@@ -36,3 +36,6 @@ A lapel microphone is used to mic the speaker, having their voice come across th
 Connect the microphone to the laptop and extend the lapel microphone out to ensure there's enough reach. YOu may want to ensure the cable is not tripped on my attendees, by taping it down in trafficked areas. YOu will want to do a sound check to ensure there are proper sound levels.
 
 **Note:** you should monitor the live stream, noting the quality of sound, to ensure there are no issues.
+
+## Live Stream is not just for meetup viewers, it's for the live stream captioner as well
+It is very important to ensure the highest quality live stream, both video and audio. Audio is extremely important for the live remote captioner, who depends onthe live stream to ensure they can caption the event properly. Monitor the live stream throughout, looking for any lapse. The remote captioner will type "lost stream" or some other message if they are unable to receive the stream. This issues are generally relted to the venue's wi-fi. Urgent remediation of the issue is required. 
